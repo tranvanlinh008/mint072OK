@@ -1,0 +1,13 @@
+.group:hover .group-1 {
+    animation: 0.1s linear dog;
+}
+@keyframes dog {
+    from {
+      width: 0px;
+    }
+  
+    to {
+      width: auto;
+    }
+  }
+  
